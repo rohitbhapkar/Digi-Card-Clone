@@ -1,0 +1,113 @@
+/* Section 1 */
+.section-1 {
+  background-color: #D3E4CD;
+}
+
+.btn-success {
+  margin-left: 20px;
+  ;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.hr1 {
+  border: 2px solid;
+  width: 40%;
+}
+
+.address1-2 {
+  color: white;
+  float: right;
+  font-size: 15px;
+}
+
+.address2 {
+  width: 40%;
+  background-color: #344CB7;
+  text-align: center;
+  margin: auto;
+  /* border: 3px solid ; */
+  padding: 10px;
+}
+
+.address2-1 {
+  color: white;
+  float: right;
+  font-size: 15px;
+}
+
+.address2-2 {
+  color: white;
+  float: right;
+  padding-right: 200px;
+}
+
+/* Section 2 */
+.para {
+  color: #F3950D;
+  text-align: center;
+}
+
+.para2 {
+  text-align: center;
+  font-size: 18px;
+}
+
+.section-2{
+  background-color: #FBFFE2;
+}
+.mid-section {
+  padding: 30px;
+}
+
+.services {
+  background-color: #000957;
+  color: white;
+  text-align: center;
+  width: 40%;
+  margin: auto;
+  padding: 20px;
+}
+
+
+.card-body {
+  background-color: #F3950D;
+}
+
+.service-line {
+  padding-bottom: 20px;
+}
+
+.service-hr {
+  color: white;
+  border: 1px solid;
+}
+
+/* Section 3 */
+.form-line {
+  text-align: center;
+}
+
+.form-hr {
+  border: 1px solid;
+  width: 40%;
+}
+
+.container {
+  text-align: center;
+  width: 40%;
+}
+
+/* Credits */
+.credits {
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    background-color: #000957;
+    color: white;
+}
+
+/* Navbar */
